@@ -1,0 +1,12 @@
+{
+    "name": "marcosh/hanoi-tower",
+    "description": "A code kata based on the hanoi tower game",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marco Perone",
+            "email": "pasafama@gmail.com"
+        }
+    ],
+    "require": {}
+}
