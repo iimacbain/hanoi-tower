@@ -8,5 +8,17 @@
             "email": "pasafama@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "phpunit/phpunit": "^4.6",
+        "phpspec/phpspec": "~2.2",
+        "behat/behat": "^3.0"
+    },
+    "config": {
+        "bin-dir": "bin"
+    },
+    "autoload": {
+        "psr-4": {
+            "Marcosh\\HanoiTower\\": "src/"
+        }
+    }
 }
