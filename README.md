@@ -10,7 +10,7 @@ We represent the state of the game by an array which contains three arrays. In t
 
 A state is valid if and only if in each of the three arrays the contained numbers are in an ascendent order.
 
-It is possible to move only one disk per move.
+It is possible to move only a disk (number) that is on the top of its rod (array). It is possibl eto move only one disk per move.
 
 The goal of the exercise is to implement an alogrithm that solves the game moving all the disks from a the first rod to another rod, possibly in the minimal number of moves.
 
